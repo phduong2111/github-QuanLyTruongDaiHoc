@@ -1,0 +1,395 @@
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangKy.resources
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangNhap.resources
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLySinhVien.resources
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Admin.resources
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Giaovien.resources
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Truongkhoa.resources
+D:\Học\BTL_C#_Anh_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.User.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangKy.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangNhap.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLySinhVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanAdmin.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanUser.resources
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangKy.resources
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangNhap.resources
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLySinhVien.resources
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanAdmin.resources
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanUser.resources
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanGiaoVien.resources
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanTruongKhoa.resources
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainMenu.resources
+D:\Projects\.NET\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DoiMatKhau.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangKy.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangNhap.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DoiMatKhau.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainMenu.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLySinhVien.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanAdmin.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanGiaoVien.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanTruongKhoa.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanUser.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatDiem.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatGiaoVien.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatKhoa.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatLop.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatMonHoc.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatSinhVien.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatChinhSach.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.dll
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.dll
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\Irony.dll
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.dll
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.dll
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.dll
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.dll
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\XLParser.dll
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.xml
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.xml
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.xml
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.xml
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.xml
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.xml
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinChinhSach.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinDiem.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinGiaoVien.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinKhoa.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinLop.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinMonHoc.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinSinhVien.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemChinhSach.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhat.CapNhatDiemSV.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemGiaoVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.dll
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.dll
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\Irony.dll
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.dll
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.dll
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.dll
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.dll
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.dll
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\XLParser.dll
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.xml
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.xml
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.xml
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.xml
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.xml
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.xml
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.xml
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatChinhSach.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatDiem.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhat.CapNhatDiemSV.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatGiaoVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatKhoa.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatLop.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatMonHoc.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatSinhVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangKy.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangNhap.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DoiMatKhau.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainMenu.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLySinhVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanAdmin.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanGiaoVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanTruongKhoa.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanUser.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinChinhSach.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinDiem.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinGiaoVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinKhoa.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinLop.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinMonHoc.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinSinhVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemChinhSach.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemGiaoVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemKhoa.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemLop.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemMonHoc.resources
+D:\Học\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemSinhVien.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.dll
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.dll
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.dll
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\Irony.dll
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.dll
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.dll
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.dll
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.dll
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.dll
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\XLParser.dll
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.xml
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.xml
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.xml
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.xml
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.xml
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.xml
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.xml
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.xml
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatChinhSach.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatDiem.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhat.CapNhatDiemSV.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatGiaoVien.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatKhoa.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatLop.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatMonHoc.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatSinhVien.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangKy.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangNhap.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DoiMatKhau.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainMenu.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLySinhVien.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanAdmin.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanGiaoVien.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanTruongKhoa.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanUser.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinChinhSach.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinDiem.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinGiaoVien.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinKhoa.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinLop.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinMonHoc.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinSinhVien.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemChinhSach.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemGiaoVien.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemKhoa.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemLop.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemMonHoc.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemSinhVien.resources
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\BTL_C#_Thầy_Trừng\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemKhoa.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemLop.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemMonHoc.resources
+D:\Projects\.NET Thay Trung\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemSinhVien.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.dll
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.dll
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\Irony.dll
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.dll
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.dll
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.dll
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.dll
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\XLParser.dll
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.xml
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.xml
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.xml
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.xml
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.xml
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.xml
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatChinhSach.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatDiem.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhat.CapNhatDiemSV.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatGiaoVien.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatKhoa.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatLop.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatMonHoc.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatSinhVien.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangKy.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangNhap.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DoiMatKhau.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainMenu.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLySinhVien.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanAdmin.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanGiaoVien.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanTruongKhoa.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanUser.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinChinhSach.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinDiem.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinGiaoVien.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinKhoa.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinLop.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinMonHoc.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinSinhVien.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemChinhSach.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemGiaoVien.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemKhoa.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemLop.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemMonHoc.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemSinhVien.resources
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\leduc\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.dll
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.dll
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\Irony.dll
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.dll
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.dll
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.dll
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.dll
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.dll
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\XLParser.dll
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.xml
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.xml
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.xml
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.xml
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.xml
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.xml
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.xml
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatChinhSach.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatDiem.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhat.CapNhatDiemSV.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatGiaoVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatKhoa.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatLop.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatMonHoc.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatSinhVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DoiMatKhau.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainMenu.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanGiaoVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanTruongKhoa.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinChinhSach.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinDiem.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinGiaoVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinKhoa.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinLop.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinMonHoc.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinSinhVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemChinhSach.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemGiaoVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemKhoa.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemLop.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemMonHoc.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemSinhVien.resources
+D:\Học\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.dll
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\Irony.dll
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.dll
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.dll
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.dll
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\XLParser.dll
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ClosedXML.xml
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Buffers.xml
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.IO.Packaging.xml
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Memory.xml
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatChinhSach.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatDiem.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhat.CapNhatDiemSV.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatGiaoVien.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatKhoa.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatLop.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatMonHoc.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.CapNhatSinhVien.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangKy.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DangNhap.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DoiMatKhau.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainMenu.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLySinhVien.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanAdmin.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanGiaoVien.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanTruongKhoa.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QuanLyTaiKhoanUser.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinChinhSach.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinDiem.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinGiaoVien.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinKhoa.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinLop.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinMonHoc.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTin.ThongTinSinhVien.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemChinhSach.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemGiaoVien.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemKhoa.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemLop.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemMonHoc.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.TimKiem.TimKiemSinhVien.resources
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\Acer\Downloads\BTL_C#_Thầy_Trừng\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
